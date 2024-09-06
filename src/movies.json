@@ -1,0 +1,90 @@
+[
+  {
+    "id": "f3193b54-ad74-454f-826f-b84a08218f43",
+    "title": "The Intern",
+    "titleOriginal": "The Intern",
+    "image": "https://upload.wikimedia.org/wikipedia/en/c/c9/The_Intern_Poster.jpg",
+    "text": "70-year-old widower Ben Whittaker, a retired executive from DEX One, finds himself bored with retirement. He applies to fill the newly conceived position of senior intern at About The Fit, a fast-growing e-commerce fashion startup in Brooklyn.",
+    "rating": "IMDb: 7.1 (215959)",
+    "year": 2015,
+    "country": "USA",
+      "slogan": "«Experience always in fashion»",
+    "director": "Nancy Meyers",
+    "scenario": "Nancy Meyers",
+    "producer": "Suzanne Farwell",
+    "operator": "Stephen Goldblatt",
+    "composer": "Theodore Shapiro",
+    "roles": [
+     "Robert De Niro, Anne Hathaway, Rene Russo"
+    ],
+    "like": 27,
+    "dislike": 10,
+    "isLiked": false
+  },
+  {
+    "id": "f8971219-c1ba-4ec0-96c0-7fe2dc69a8e9",
+    "title": "Silicon Valley",
+    "titleOriginal": "Silicon Valley",
+    "image": "https://upload.wikimedia.org/wikipedia/en/3/33/Silicon_valley_title.png",
+    "text": "Richard Hendricks, an employee of a tech company named Hooli, creates in his spare time an app called Pied Piper that contains a revolutionary data compression algorithm. Peter Gregory acquires a stake in Pied Piper, and Richard hires the residents of Erlich Bachman's business incubator, including Bertram Gilfoyle and Dinesh Chugtai, along with Jared Dunn, who also defected from Hooli. Meanwhile Richard's best friend, Nelson \"Big Head\" Bighetti, chooses to accept a substantial promotion at Hooli instead, despite his lack of merit for the job.",
+    "rating": "IMDb:8.1 (615 167)",
+    "year": 2014,
+    "country": "USA",
+    "slogan": "«When the scale has?»",
+    "director": "Mike Judge",
+    "scenario": "Tim Roche",
+    "producer": "Jim Kleverweis",
+    "operator": "Jim Denault",
+    "composer": "Jeff Cardoni",
+    "roles": [
+      "Thomas Middleditch, T.J. Miller, Josh Brener, Martin Starr, Kumail Nanjiani, Christopher Evan Welch"
+    ],
+    "like": 77,
+    "dislike": 50,
+    "isLiked": false
+  },
+  {
+    "id": "425043d4-ef99-499a-b94c-0e12aff2d614",
+    "title": "The Internship",
+    "titleOriginal": "The Internship",
+    "image": "https://upload.wikimedia.org/wikipedia/en/e/ed/The-internship-poster.jpg",
+    "text": "After salesmen Billy McMahon and Nick Campbell's employer goes out of business, Billy applies for Google internships for them both. They are accepted due to their unorthodox interview answers, despite a lack of relevant experience and not being of traditional collegiate age. ",
+    "rating": "IMDb: 6.3 (187 167)",
+    "year": 2013,
+    "country": "USA",
+    "slogan": "-",
+    "director": "Shawn Levy",
+    "scenario": "Vince Vaughn",
+    "producer": "Vince Vaughn",
+    "operator": "Jonathan Brown",
+    "composer": "Christophe Beck",
+    "roles": [
+      "Vince Vaughn, Owen Wilson, Rose Byrne, Max Minghella"
+    ],
+    "like": 61,
+    "dislike": 15,
+    "isLiked": false
+  },
+  {
+    "id": "4a211c28-bb9d-4ec6-9667-2d30018992f5",
+    "title": "Ex Machina",
+    "titleOriginal": "Ex Machina",
+    "image": "https://upload.wikimedia.org/wikipedia/en/b/ba/Ex-machina-uk-poster.jpg",
+    "text": "Caleb Smith, a programmer at the search engine company Blue Book, wins an office contest for a one-week visit to the luxurious, isolated home of the CEO, Nathan Bateman. Nathan lives there with an unspeaking servant named Kyoko, who, according to Nathan, does not understand English.",
+    "rating": "IMDb: 7.7 (467 053)",
+    "year": 2015,
+    "country": "USA",
+    "slogan": "«To erase the line between man and machine»",
+    "director": "Alex Garland",
+    "scenario": "Alex Garland",
+    "producer": "Andrew Macdonald",
+    "operator": "Rob Hardy",
+    "composer": "Ben Salisbury",
+    "roles": [
+      "Domhnall Gleeson, Alicia Vikander, Oscar Isaac"
+    ],
+    "like": 124,
+    "dislike": 38,
+    "isLiked": false
+  }
+]

@@ -1,0 +1,96 @@
+<div id="modal-form" class="modal fade" role="dialog" style="display: none;" aria-hidden="true">
+    <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Add new film</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <form class="w-75 mx-auto">
+                    <div class="form-group">
+                        <label>Film name:</label>
+                        <input id="title" type="text" class="form-control">
+                    </div>
+                    <div class="form-group">
+                        <label>Original film name:</label>
+                        <input id="titleOriginal" type="text" class="form-control">
+                    </div>
+                    <div class="form-group">
+                        <label>Poster:</label>
+                        <input type="text" class="form-control" id="image" placeholder="image link">
+                    </div>
+                    <fieldset class="form-group">
+                        <legend class="col-form-label pt-0">Detailed information:</legend>
+                        <div class="form-group row">
+                            <label class="col-sm-2 col-form-label">Year:</label>
+                            <div class="col-sm-10">
+                                <input id="year" type="text" class="form-control">
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <label class="col-sm-2 col-form-label">Country:</label>
+                            <div class="col-sm-10">
+                                <input id="country" type="text" class="form-control">
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <label class="col-sm-2 col-form-label">Slogan:</label>
+                            <div class="col-sm-10">
+                                <input id="slogan" type="text" class="form-control">
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <label class="col-sm-2 col-form-label">Director:</label>
+                            <div class="col-sm-10">
+                                <input type="text" class="form-control" id="director">
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <label class="col-sm-2 col-form-label">Screenwriter:</label>
+                            <div class="col-sm-10">
+                                <input type="text" class="form-control" id="scenario">
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <label class="col-sm-2 col-form-label">Producer:</label>
+                            <div class="col-sm-10">
+                                <input type="text" class="form-control" id="producer">
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <label class="col-sm-2 col-form-label">Operator:</label>
+                            <div class="col-sm-10">
+                                <input type="text" class="form-control" id="operator">
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <label class="col-sm-2 col-form-label">Compositor:</label>
+                            <div class="col-sm-10">
+                                <input type="text" class="form-control" id="composer">
+                            </div>
+                        </div>
+                    </fieldset>
+                    <div class="form-group">
+                        <label>Cast:</label>
+                        <textarea id="roles" class="form-control" rows="3"></textarea>
+                        <small class="form-text text-muted">Specify actors separated by commas.</small>
+                    </div>
+                    <div class="form-group">
+                        <label>Рейтинг IMDB:</label>
+                        <input id="rating" type="text" class="form-control">
+                    </div>
+                    <div class="form-group">
+                        <label>Описание:</label>
+                        <textarea id="text" class="form-control" rows="3"></textarea>
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer justify-content-center">
+                <button type="button" class="btn btn-outline-danger" data-dismiss="modal">Cancel</button>
+                <button id="save-new" type="button"  data-dismiss="modal" class="btn btn-primary mr-3">Save</button>
+            </div>
+        </div>
+    </div>
+</div>
